@@ -1,0 +1,15 @@
+C:\Users\Ruallyson\Desktop\Desenvolvimento Web 2\.NET DIO\bin\Debug\net6.0\.NET DIO.exe
+C:\Users\Ruallyson\Desktop\Desenvolvimento Web 2\.NET DIO\bin\Debug\net6.0\.NET DIO.deps.json
+C:\Users\Ruallyson\Desktop\Desenvolvimento Web 2\.NET DIO\bin\Debug\net6.0\.NET DIO.runtimeconfig.json
+C:\Users\Ruallyson\Desktop\Desenvolvimento Web 2\.NET DIO\bin\Debug\net6.0\.NET DIO.dll
+C:\Users\Ruallyson\Desktop\Desenvolvimento Web 2\.NET DIO\bin\Debug\net6.0\.NET DIO.pdb
+C:\Users\Ruallyson\Desktop\Desenvolvimento Web 2\.NET DIO\obj\Debug\net6.0\.NET DIO.csproj.AssemblyReference.cache
+C:\Users\Ruallyson\Desktop\Desenvolvimento Web 2\.NET DIO\obj\Debug\net6.0\.NET DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruallyson\Desktop\Desenvolvimento Web 2\.NET DIO\obj\Debug\net6.0\.NET DIO.AssemblyInfoInputs.cache
+C:\Users\Ruallyson\Desktop\Desenvolvimento Web 2\.NET DIO\obj\Debug\net6.0\.NET DIO.AssemblyInfo.cs
+C:\Users\Ruallyson\Desktop\Desenvolvimento Web 2\.NET DIO\obj\Debug\net6.0\.NET DIO.csproj.CoreCompileInputs.cache
+C:\Users\Ruallyson\Desktop\Desenvolvimento Web 2\.NET DIO\obj\Debug\net6.0\.NET DIO.dll
+C:\Users\Ruallyson\Desktop\Desenvolvimento Web 2\.NET DIO\obj\Debug\net6.0\refint\.NET DIO.dll
+C:\Users\Ruallyson\Desktop\Desenvolvimento Web 2\.NET DIO\obj\Debug\net6.0\.NET DIO.pdb
+C:\Users\Ruallyson\Desktop\Desenvolvimento Web 2\.NET DIO\obj\Debug\net6.0\.NET DIO.genruntimeconfig.cache
+C:\Users\Ruallyson\Desktop\Desenvolvimento Web 2\.NET DIO\obj\Debug\net6.0\ref\.NET DIO.dll
